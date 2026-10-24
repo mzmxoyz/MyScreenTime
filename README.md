@@ -5,7 +5,9 @@
 
 ![MyScreenTime 界面预览](preview.png)
 
-**[下载 Windows 版（v1.8.0）](https://github.com/mzmxoyz/MyScreenTime/releases/latest/download/MyScreenTime-v1.8.0-win64.zip)**　·　Windows 10 / 11 64 位　·　免安装　·　无需 Python
+**[在线下载页](https://mzmxoyz.github.io/MyScreenTime/)**　·　**[下载 Windows 版（v1.8.0）](https://github.com/mzmxoyz/MyScreenTime/releases/latest/download/MyScreenTime-v1.8.0-win64.zip)**
+
+Windows 10 / 11 64 位　·　免安装　·　无需 Python
 
 ---
 
