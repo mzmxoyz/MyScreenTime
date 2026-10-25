@@ -1,10 +1,10 @@
-# MyScreenTime v1.8.0
+﻿# MyScreenTime v1.8.1
 
 一个纯本地运行的 Windows 桌面悬浮桌宠：查看今天的电脑使用时长，连续使用 60 分钟时提醒起身活动。
 
 ## 下载
 
-- 文件：`MyScreenTime-v1.8.0-win64.zip`
+- 文件：`MyScreenTime-v1.8.1-win64.zip`
 - 大小：约 36.5 MB
 - 系统：Windows 10 / 11，64 位
 - 免安装，无需 Python
@@ -12,7 +12,7 @@
 SHA-256：
 
 ```text
-792c8fccf6ce1f2fd5022fb52408ca1a2afd4fe9fb71342c8216cda59c177da5
+bde211b9b76bdc26f587ebe9315b37622061573e7e859b4c3c485c3f38487eee
 ```
 
 ## 安装
@@ -32,3 +32,4 @@ SHA-256：
 - 托盘常驻、开机自启、单实例。
 - 固定内置微信赞赏码。
 - 使用数据只保存在本机，不上传网络。
+
