@@ -1,11 +1,11 @@
-# MyScreenTime
+﻿# MyScreenTime
 
 > 一个安静地待在桌面角落的 Windows 使用时长桌宠。  
 > 点一下看看今天用了多久电脑，连续使用 60 分钟时提醒你起身活动。
 
 ![MyScreenTime 界面预览](preview.png)
 
-**[在线下载页](https://mzmxoyz.github.io/MyScreenTime/)**　·　**[下载 Windows 版（v1.8.0）](https://github.com/mzmxoyz/MyScreenTime/releases/latest/download/MyScreenTime-v1.8.0-win64.zip)**
+**[在线下载页](https://mzmxoyz.github.io/MyScreenTime/)**　·　**[下载 Windows 版（v1.8.1）](https://github.com/mzmxoyz/MyScreenTime/releases/latest/download/MyScreenTime-v1.8.1-win64.zip)**
 
 Windows 10 / 11 64 位　·　免安装　·　无需 Python
 
@@ -46,7 +46,7 @@ Windows 10 / 11 64 位　·　免安装　·　无需 Python
 
 ## 下载与安装
 
-1. 下载 [MyScreenTime-v1.8.0-win64.zip](https://github.com/mzmxoyz/MyScreenTime/releases/latest/download/MyScreenTime-v1.8.0-win64.zip)。
+1. 下载 [MyScreenTime-v1.8.1-win64.zip](https://github.com/mzmxoyz/MyScreenTime/releases/latest/download/MyScreenTime-v1.8.1-win64.zip)。
 2. 完整解压出 `MyScreenTime` 文件夹。
 3. 双击 `MyScreenTime.exe`。
 
@@ -95,14 +95,15 @@ EXE 没有商业代码签名证书。可以核对压缩包的 SHA-256，或自�
 ## 校验值
 
 ```text
-SHA-256: 792c8fccf6ce1f2fd5022fb52408ca1a2afd4fe9fb71342c8216cda59c177da5
+SHA-256: bde211b9b76bdc26f587ebe9315b37622061573e7e859b4c3c485c3f38487eee
 ```
 
 ## 版本
 
-当前版本：**v1.8.0**（2026-10）
+当前版本：**v1.8.1**（2026-10）
 
 ---
 
 如果这个小工具帮到了你，欢迎在应用里点一下「♥ 赞赏」。  
 也欢迎把它分享给同样需要「看一眼今天用了多久」的人。
+
